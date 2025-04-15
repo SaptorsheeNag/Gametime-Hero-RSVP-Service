@@ -35,12 +35,14 @@ Getting Started:
 5. You'll be prompted in the terminal to enter:
    
    Player ID
+   
    Player Name
+   
    RSVP Status (Yes, No, or Maybe)
 
    You can add as many players as you'd like. Type done as the ID to finish input and see the output summary.
 
-6. Run unit tests using:
+7. Run unit tests using:
 
    npm test
 
